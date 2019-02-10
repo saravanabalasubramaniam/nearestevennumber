@@ -12,7 +12,7 @@ class Nearestevennumber
 	}	
 	else
 	{	
-		a++;
+		a=a-1;
 		System.out.println(a);
 	}
 
